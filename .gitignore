@@ -1,2 +1,3 @@
 .vscode
 *.txt
+/batches_csv
