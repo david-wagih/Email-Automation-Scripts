@@ -1,3 +1,5 @@
 .vscode
 *.txt
-/batches_csv
+batches_csv/
+venv/
+*.pdf
